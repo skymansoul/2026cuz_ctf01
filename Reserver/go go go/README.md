@@ -1,0 +1,1 @@
+tiny go vault 被锁住了。找到正确输入，让它输出 `unlocked`。
